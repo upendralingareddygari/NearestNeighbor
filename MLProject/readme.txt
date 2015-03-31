@@ -1,12 +1,7 @@
-# NearestNeighbor
-Machine Learning Nearest Neighbor classification implementation
-
-## Implementation of K-nearest classification algorithm
-
 The project can be run as follows:
 
 
-$$$: java CVNearestNeighbor firstfile secondfile 
+{cslinux2:~/workspace/CrossValidationNearestNeighbors} java CVNearestNeighbor firstfile secondfile 
 error e is 0.037037037037037035
 Standard deviation 0.06415002990995841
 + + + - - 
